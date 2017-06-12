@@ -56,11 +56,4 @@ Then go to `http://localhost:8000` from your browser and see the app.
 
 If you have any query please contact at deepaksabat910@gmail.com
 
-## Screenshot
 
-![Landing Page](/screenshots/1.png)
-![Sign In Page](/screenshots/2.png)
-![Registration Page](/screenshots/3.png)
-![ToDo List Page](/screenshots/4.png)
-![Create New ToDo Page](/screenshots/5.png)
-![User Profile Page](/screenshots/6.png)
